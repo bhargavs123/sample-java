@@ -1,1 +1,2 @@
-this is third file we are making
+this is third file we are making.
+3
