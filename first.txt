@@ -1,2 +1,2 @@
-This is my first file. /modified it.
+This is my first file. /modified the file.
 
